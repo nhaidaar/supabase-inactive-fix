@@ -1,0 +1,8 @@
+[
+  {
+    "name": "Disoriza Revamp",
+    "supabase_url": "https://nbvfvefzohsypbynvegk.supabase.co",
+    "supabase_key_env": "SUPABASE_KEY_1",
+    "table_name": "keep-alive"
+  }
+]
